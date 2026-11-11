@@ -1,2 +1,2 @@
-## Welcome to my page, I am Dorian
-I am a physical therapist transitioning into computer science. Strong interest for exercice and movement analysis. 🏃‍♂️📈🧑🏻‍💻
+## Hi, I am Dorian
+I am a physical therapist transitioning into embedded systems student at HEIG-VD. Interested in exercice, movement analysis and building hardware & software. 🏃‍♂️📈🧑🏻‍💻
